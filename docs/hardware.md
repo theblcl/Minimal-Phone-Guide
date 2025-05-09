@@ -22,6 +22,7 @@ This is a personal preference, but a tip from user j4sb3rg on discord
 2.lock screen-wake screen for notifications
 
 ## Keyboard
+### General Issues
 If you are having issues with the keyboard, check to make sure you are using the Minimal Keybaord
 
 Go to Settings
@@ -37,3 +38,8 @@ We're aware of one more slight issue with the keyboard:
 Issue: Holding down the SHIFT or ALT key while typing quickly may not register correctly.
 
 Temporary Fix: Instead of holding down the key, tap or double-tap (to lock) SHIFT or ALT before selecting the desired character
+
+### WASD Mode
+If you want to use WASD for a directional pad such as for games, you can double tap ALT then press SYM. You will notice a directional icon appear in your status bar at the top.
+To get out of this mode, press SYM once more.
+Note that when you are in this mode, your characters symbols on the keyboard will rearrange such as ALT+M will be an “=” instead of a “,”

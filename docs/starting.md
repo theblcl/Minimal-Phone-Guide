@@ -22,3 +22,19 @@ To access settings, swipe down from the top twice, hit the cog icon, and then lo
 
 ### Checking Duraspeed
 There is an setting called duraspeed which can sometimes aggresively kill apps to perserve battery. Your mileage may vary, but it may be a good idea to familiarize yourself with it (more on this in troubleshooting)
+
+## E-Ink Settings
+Hold the refresh button between the volume keys on the side of the phone to open the quick settings that allow adjustment of screen backlight, keyboard backlight, and screen refresh speeds.
+Tap the the refresh button once to eliminating ghosting on the e-ink screen
+
+
+## Android Navigation
+### Three navigations buttons
+Above your keyboard there are three navigation buttons. Back, Home, and Recent Apps
+
+!!! note "Quick Switch to Last App"
+    You can switch back and forth between the last two opened apps by double tapping the App Overview button on the right.
+
+Quick settings and refresh
+Hold the refresh button between the volume keys on the side of the phone to open the quick settings that allow adjustment of screen backlight, keyboard backlight, and screen refresh speeds.
+Tap the the refresh button once to eliminating ghosting on the e-ink screen
