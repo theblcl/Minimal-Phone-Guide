@@ -1,0 +1,41 @@
+site_name: Minimal Phone Wiki
+site_url: https://sitename.example
+theme:
+  name: material
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: red
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+  font:
+    text: Merriweather Sans
+    code: Red Hat Mono
+  icon:
+    logo: fontawesome/solid/m
+  features:
+    - navigation.footer
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - index.md
+  - starting.md
+  - hardware.md
+  - apps.md
+  - troubleshooting.md
+  - suggestions.md
