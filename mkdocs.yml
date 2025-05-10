@@ -32,6 +32,12 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+  - git-authors
+
 nav:
   - index.md
   - starting.md
