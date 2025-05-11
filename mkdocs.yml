@@ -37,11 +37,17 @@ plugins:
       enable_creation_date: true
       type: date
   - git-authors
+  - git-committers:
+      repository: theblcl/Minimal-Phone-Guide
+      branch: main
 
 nav:
   - index.md
   - starting.md
   - hardware.md
   - apps.md
-  - troubleshooting.md
+  - tips_and_tricks.md
+  - ota.md
   - suggestions.md
+  - roms.md
+  - troubleshooting.md

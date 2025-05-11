@@ -17,21 +17,19 @@ One other thing that got me was that if you hold your unlock finger over the pow
 ### Stop screen from waking for every notification
 This is a personal preference, but a tip from user j4sb3rg on discord
 
-1.Settings-notifications-notifications wake screen
+1. Settings-notifications-notifications wake screen
 
-2.lock screen-wake screen for notifications
+2. lock screen-wake screen for notifications
 
 ## Keyboard
 ### General Issues
-If you are having issues with the keyboard, check to make sure you are using the Minimal Keybaord
+If you are having issues with the keyboard, check to make sure you are using the Minimal Keyboard
 
 Go to Settings
 
-Select On-Screen Keyboard
+1. Select On-Screen Keyboard
 
-Turn off Gboard
-
-Minor Keyboard Issue & Fix Incoming
+2. Turn off Gboard
 
 We're aware of one more slight issue with the keyboard:
 
@@ -39,7 +37,14 @@ Issue: Holding down the SHIFT or ALT key while typing quickly may not register c
 
 Temporary Fix: Instead of holding down the key, tap or double-tap (to lock) SHIFT or ALT before selecting the desired character
 
+### Period/Mic Button
+In the Minimal Keyboard settings, there is an option for the mic button to act as a dedicated period button
+
+### Disabling Autocorrect
+Some users may want to disable autocorrect if it is feeling too aggressive, and this can also be done in the Minimal Keyboard settings
+
 ### WASD Mode
 If you want to use WASD for a directional pad such as for games, you can double tap ALT then press SYM. You will notice a directional icon appear in your status bar at the top.
 To get out of this mode, press SYM once more.
 Note that when you are in this mode, your characters symbols on the keyboard will rearrange such as ALT+M will be an “=” instead of a “,”
+

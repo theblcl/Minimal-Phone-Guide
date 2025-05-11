@@ -1,4 +1,4 @@
-# Suggestions
+# Ideas for The Minimal Company
 
 user x29a set up a board for suggestions, may be a good place to centralize any ideas/suggestions to make it easy for the team to review
 
