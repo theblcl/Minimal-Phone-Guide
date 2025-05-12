@@ -1,7 +1,8 @@
 # Getting Started
 
-## Setting Up Your Sim
+## Setting Up Your Sim Card
 user tc64 typed it up nicely
+
 Just a PSA to anyone trying to get this phone working on T-mobile — if you have an iPhone 14, US model (which is eSIM only) and are trying to switch to Minimal which needs a physical SIM, I couldn't activate it directly because T-mobile is convinced that this phone is "not an unlocked device" LOL.
 
 This means that in order to switch from iPhone 14 to Minimal, you have to have a third "temporary" phone (i'm using some old iPhone SE) that you activate the physical SIM on instead, and then swap the SIM card to the Minimal later
