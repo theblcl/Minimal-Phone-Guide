@@ -23,4 +23,7 @@ Launcher work a bit like a desktop in some ways. Minimal Launcher will obviously
 ### Shortcuts
     Key Mapper
 
-Check out app "Key Mapper" it will allow you to set specific functions for any key on the keyboard, depending on what app you have open, or if media is playing.  You can even set it to do emulated screen taps.  I have my phone set up now when you double tap enter on the main minimal screen it swipes up into the app drawer and then auto taps on the search bar so you can just start tapping to search for an app
+### Web browser
+    Einkbro
+
+The web was not optimized for e-ink screens, however, Einkbro helps bridge the gap. This browser includes volume key paginated scrolling, reading mode, OpenAI integration (for generating page summaries), and many other optimization for e-ink. 
