@@ -36,7 +36,6 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: date
-  - git-authors
   - git-committers:
       repository: theblcl/Minimal-Phone-Guide
       branch: main
