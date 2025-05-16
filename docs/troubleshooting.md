@@ -1,5 +1,9 @@
 # Troubleshooting
 
+## Calling
+from mark on discord
+I couldn't make calls (in the UK) until I turned on wifi calling in the phone app settings - after that it worked fine (on WiFi or on the mobile network). Worth a try if anyone else has the same problem!
+
 ## Connectivity (Bluetooth, wearables, or notifications)
 from Roman and silentace07 on discord
 Make sure to look at the Duraspeed settings in your Android Settings app. Duraspeed will kill processes in order to keep apps in the foreground more performative, and allow battery optimizations. Although this can be helpful, it can also impact your user experience.

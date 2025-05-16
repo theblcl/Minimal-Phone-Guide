@@ -6,3 +6,5 @@ This is a running collection of tips and tricks from the community for using the
 
 - **Double-click Enter/Space**: puts the device to sleep
 
+## Reduce Animations from Dev Options
+WIP

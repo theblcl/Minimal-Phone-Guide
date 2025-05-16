@@ -1,2 +1,2 @@
 # Custom Roms & De-Googling
-WIP
+This would be considered an "Advanced" section. Either for Advanced users who are familiar with roms etc., or for people who are inerested in more advanced features, namely more granular control over the device. A discord user is currently working on a GSI build on his own time.

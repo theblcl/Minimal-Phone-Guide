@@ -32,6 +32,12 @@ To access settings, swipe down from the top twice, hit the cog icon, and then lo
 ### Checking Duraspeed
 There is an setting called duraspeed which can sometimes aggresively kill apps to perserve battery. Your mileage may vary, but it may be a good idea to familiarize yourself with it (more on this in troubleshooting)
 
+### Using The Minimal Launcher
+This is the launcher that comes with the phone. It can be changed later as well, but its how you interface with the device/apps you have. To customize it:
+
+- Swipe up from the bottom of the screen to see the full app list, long press on the app you want
+- To remove, long press on the app and choose remove.
+
 ## E-Ink Settings
 Hold the refresh button between the volume keys on the side of the phone to open the quick settings that allow adjustment of screen backlight, keyboard backlight, and screen refresh speeds.
 Tap the the refresh button once to eliminating ghosting on the e-ink screen
