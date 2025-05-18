@@ -42,6 +42,12 @@ This is the launcher that comes with the phone. It can be changed later as well,
 Hold the refresh button between the volume keys on the side of the phone to open the quick settings that allow adjustment of screen backlight, keyboard backlight, and screen refresh speeds.
 Tap the the refresh button once to eliminating ghosting on the e-ink screen
 
+### Adjusting Contrast
+from user tc64
+go to developer options, find "contrast", set it to "high" and it will change some gray/lines to black in a good amount of apps
+
+!!! note "developer options"
+    in settings, scroll to about phone, and tap "build number" 7 times
 
 ## Android Navigation
 ### Three navigations buttons
