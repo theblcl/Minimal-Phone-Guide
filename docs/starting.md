@@ -38,6 +38,15 @@ This is the launcher that comes with the phone. It can be changed later as well,
 - Swipe up from the bottom of the screen to see the full app list, long press on the app you want
 - To remove, long press on the app and choose remove.
 
+### Reduce Movement Setting
+Enabling the accessibility "Reduce Movement on the screen" setting improves eink performance. Most animations are not properly viewable on the eink display anyway.
+
+- Open Settings
+- Accessibility
+- Color and Motion
+- Remove Animations
+- Reduce movement on the screen
+
 ## E-Ink Settings
 Hold the refresh button between the volume keys on the side of the phone to open the quick settings that allow adjustment of screen backlight, keyboard backlight, and screen refresh speeds.
 Tap the the refresh button once to eliminating ghosting on the e-ink screen
