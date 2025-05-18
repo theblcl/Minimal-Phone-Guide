@@ -21,6 +21,11 @@ This is a personal preference, but a tip from user j4sb3rg on discord
 
 2. lock screen-wake screen for notifications
 
+### Refresh Speeds
+Please click the "i" button for more information for your setting. But one misconception is the "hybrid" speed is the "middle speed." No it is not. It is a beta-test of an adaptive model switching between Slow Speed (low refresh rate for reading and minimal use) and Ultra Speed (higher fresh rate at the cost of details for playing video and heavy use).
+!!! note "Note"
+    There may be a bug when adjusting speeds. this is currently being investigated.
+
 ## Keyboard
 ### General Issues
 If you are having issues with the keyboard, check to make sure you are using the Minimal Keyboard
@@ -48,3 +53,10 @@ If you want to use WASD for a directional pad such as for games, you can double 
 To get out of this mode, press SYM once more.
 Note that when you are in this mode, your characters symbols on the keyboard will rearrange such as ALT+M will be an “=” instead of a “,”
 
+### International Use
+from user unknownwelle
+For international users who type more than English:
+
+1. Download Microsoft Swiftkey Keyboard,
+2. Disable all other keyboards in the keyboard settings,
+Then, you can use Microsoft Swiftkey Keyboard with all the functionalities but can still use multiple languages. Note the on-screen keyboard may appear at times, but once you start typing, it would disappear
