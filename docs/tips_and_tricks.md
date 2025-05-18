@@ -5,6 +5,3 @@ This is a running collection of tips and tricks from the community for using the
 ## Keyboard shortcuts
 
 - **Double-click Enter/Space**: puts the device to sleep
-
-## Reduce Animations from Dev Options
-WIP
