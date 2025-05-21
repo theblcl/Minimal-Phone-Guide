@@ -20,6 +20,10 @@ caseyls, silentace07, and alfonso mantero are a few individuals from discord who
 
 Launcher work a bit like a desktop in some ways. Minimal Launcher will obviously be updated by the team at TMC, but people have found success with these other launchers, as well as nova (prime).
 
+### Screen Saver
+    E-Ink ScreenSaver from TT Soft
+This one updates only every 5 minutes to save battery
+
 ### Shortcuts
     Key Mapper
 
