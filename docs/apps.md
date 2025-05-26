@@ -10,7 +10,7 @@ Gboard, while great, does not work super well with the physical keyboard on the 
 ### Camera
 caseyls, silentace07, and alfonso mantero are a few individuals from discord who looked into the camera a lot. Based on their findings, the recommended camera setup is
     
-    OpenCamera, Camera2api set, NR (default) setting 
+    OpenCamera, Camera2api set, NR in processing settings must be OFF 
 
 ### E-Reader
     KO Reader & Moonreader
@@ -22,7 +22,7 @@ Launcher work a bit like a desktop in some ways. Minimal Launcher will obviously
 
 ### Screen Saver
     E-Ink ScreenSaver from TT Soft
-This one updates only every 5 minutes to save battery
+The [E-Ink ScreenSaver](https://play.google.com/store/apps/details?id=com.tt.einkscreensaver) updates only every 5 minutes (configurable) to save battery, and is optimized for E-Ink devices and the Minimal Phone with always-on display. Very customizable through settings. 
 
 ### Shortcuts
     Key Mapper
