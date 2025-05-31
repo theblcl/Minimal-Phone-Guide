@@ -48,6 +48,9 @@ In the Minimal Keyboard settings, there is an option for the mic button to act a
 ### Disabling Autocorrect
 Some users may want to disable autocorrect if it is feeling too aggressive, and this can also be done in the Minimal Keyboard settings
 
+### Disabling Auto-capitalization
+If you're experiencing issues where the first character of every line is always capitalized (even when holding shift), you can disable this feature in the Minimal Keyboard Settings. Simply open Minimal Keyboard Settings and disable the "auto-capitalize" option.
+
 ### WASD Mode
 If you want to use WASD for a directional pad such as for games, you can double tap ALT then press SYM. You will notice a directional icon appear in your status bar at the top.
 To get out of this mode, press SYM once more.
